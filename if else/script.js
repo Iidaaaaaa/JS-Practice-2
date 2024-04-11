@@ -7,3 +7,4 @@ if (Birthday <= 2005) {
   Centry = 21;
 }
 console.log(Centry);
+console.log(Centry);
